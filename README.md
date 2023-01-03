@@ -2,7 +2,6 @@
 Machine Learning Model to detect twitter bots and political tweets<br>
 <br>
 In this project we will follow several stages:<br>
-<br>
 - Data annotation<br>
 - Feature extraction<br>
 - Model building and training<br>
